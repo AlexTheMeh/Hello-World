@@ -1,0 +1,3 @@
+H:/Clion Code/Week 2/ConsoleGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/Clion Code/Week 2/ConsoleGame/cmake-build-debug/CMakeFiles/ConsoleGame.dir
+H:/Clion Code/Week 2/ConsoleGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
